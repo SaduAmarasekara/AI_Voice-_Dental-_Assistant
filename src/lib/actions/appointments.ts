@@ -188,3 +188,4 @@ export async function updateAppointmentStatus(input: {
     throw new Error("Failed to update appointment");
   }
 }
+
