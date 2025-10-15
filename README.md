@@ -32,9 +32,4 @@ This system helps patients and dentists communicate easily through AI-powered vo
 
 ---
 
-## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/YourUsername/AI_Voice_Dental_Assistant.git
-cd AI_Voice_Dental_Assistant
